@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Hi+there+!&animation=blink&fontSize=80&fontAlignY=60&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=👋🏻+Hi+there+!&animation=blink&fontSize=80&fontAlignY=60&fontColor=000000)
 
 <p align="right">
   <a href="https://hits.seeyoufarm.com">
