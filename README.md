@@ -8,7 +8,6 @@
 
 ## 💻Project
 
----
 
 - [Humax Dreamverse Company Internship: Turu Parking](https://github.com/nakim81/Humax-Dreamverse-Company-Internship.git)
 - [Food delivery service platform backend with Java and Spring boot](https://github.com/nakim81/Java-Delivery-Service-Platform-Backend.git)
@@ -18,9 +17,10 @@
 - [Simple Java projects](https://github.com/nakim81/JAVA-Projects.git)
 - [Todo list app with React.js](https://github.com/nakim81/TodoList-React.git)
 
+<br>
+
 ## ⌨️Tech Stack
 
----
 
 <Programing Languages\>
 
@@ -45,7 +45,7 @@
 
 - <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20JPA-%236DB33F?style=flat&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Xcode-%23147EFB?style=flat&logo=xcode&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-white?style=flat&logo=Intellij%20IDEA&logoColor=%23000000"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1?style=flat&logoColor=%23000000">
 
----
+<br>
 
 ## Stats & Most Used Languages
 
@@ -55,3 +55,10 @@
 <a href="https://github.com/nakim81/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakim81&layout=compact" />
 </a>
+
+
+<br>
+
+## Commit History
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
