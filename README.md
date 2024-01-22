@@ -11,7 +11,7 @@
 
 - [Humax Dreamverse Company Internship: Turu Parking](https://github.com/nakim81/Humax-Dreamverse-Company-Internship.git)
 - [Food delivery service platform backend with Java and Spring boot](https://github.com/nakim81/Java-Delivery-Service-Platform-Backend.git)
-- [Food delivery service platform backend with Kotlin, Java, and Spring boot](https://github.com/nakim81/Java-Delivery-Service-Platform-Backend.git)
+- [Food delivery service platform backend with Kotlin, Java, and Spring boot](https://github.com/nakim81/Kotlin-Delivery-Service-Platform-Backend.git)
 - [Campground review web page](https://github.com/nakim81/CampgroundWebPage-JavaScript.git)
 - [Simple Java projects to study how to use API](https://github.com/nakim81/JavaStudy-HowToUseAPIs.git)
 - [Simple Java projects](https://github.com/nakim81/JAVA-Projects.git)
