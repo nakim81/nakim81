@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 💻Project
+## 💻 Project
 
 
 - [Humax Dreamverse Company Internship: Turu Parking](https://github.com/nakim81/Humax-Dreamverse-Company-Internship.git)
@@ -19,7 +19,7 @@
 
 <br>
 
-## ⌨️Tech Stack
+## ⌨️ Tech Stack
 
 
 <Programing Languages\>
@@ -48,7 +48,7 @@ Authentication: <img alt="Static Badge" src="https://img.shields.io/badge/JWT-wh
 
 <br>
 
-## Stats & Most Used Languages
+## 📊 Stats & Most Used Languages
 
 <a href="https://github.com/nakim81/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nakim81&rank_icon=github&show_icons=true&theme=shadow_blue" />
@@ -60,6 +60,6 @@ Authentication: <img alt="Static Badge" src="https://img.shields.io/badge/JWT-wh
 
 <br>
 
-## Commit History
+## ✏️ Commit History
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
